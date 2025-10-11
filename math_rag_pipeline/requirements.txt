@@ -1,0 +1,10 @@
+typer
+pdfplumber
+chromadb
+sentence-transformers
+openai
+tqdm
+numpy
+python-dotenv
+fastapi
+uvicorn

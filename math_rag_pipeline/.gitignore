@@ -1,0 +1,7 @@
+venv/
+test/
+pycache/
+data/
+docs/
+examples/
+notebooks/
