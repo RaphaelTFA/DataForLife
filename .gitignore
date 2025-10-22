@@ -1,6 +1,6 @@
 venv/
 test/
-pycache/
+__pycache__/
 data/
 docs/
 examples/

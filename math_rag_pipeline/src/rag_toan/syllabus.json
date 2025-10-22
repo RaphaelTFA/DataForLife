@@ -1,0 +1,32 @@
+{
+  "10": {
+    "Mệnh đề - Tập hợp": ["Mệnh đề", "Tập hợp và các phép toán trên tập hợp"],
+    "Bất phương trình và hệ bất phương trình bậc nhất hai ẩn": ["Bất phương trình bậc nhất hai ẩn", "Hệ bất phương trình bậc nhất hai ẩn"],
+    "Hệ thức lượng trong tam giác": ["Giá trị lượng giác của một góc từ 0 độ đến 180 độ", "Hệ thức lượng trong tam giác"],
+    "Vector": ["Các khái niệm mở đầu", "Tổng và hiệu của hai vector", "Tích của một vector với một số", "Vector trong mặt phẳng tọa độ", "Tích vô hướng của hai vector"],
+    "Các số đặc trưng của mẫu số liệu, không ghép nhóm": ["Số gần đúng và sai số", "Các số đặc trưng đo xu thế trung tâm", "Các số đặc trưng đo độ phân tán"],
+    "Hàm số, đồ thị và ứng dụng": ["Hàm số", "Hàm số bậc hai", "Dấu của tam thức bậc hai", "Phương trình quy về phương trình bậc hai"],
+    "Phương pháp tọa độ trong mặt phẳng": ["Phương trình đường thẳng", "Đường thẳng trong mặt phẳng tọa độ", "Đường tròn trong mặt phẳng tọa độ", "Ba đường conic"],
+    "Đại số tổ hợp": ["Quy tắc đếm", "Hoán vị, chỉnh hợp và tổ hợp", "Nhị thức Newton"],
+    "Tính xác suất theo định nghĩa cổ điển": ["Biến cố và định nghĩa cổ điển của xác suất", "Thực hành tính xác suất theo định nghĩa cổ điển"]
+  },
+  "11": {
+    "Hàm số lượng giác - Phương trình lượng giác": ["Giá trị lượng giác của góc lượng giác", "Công thức lượng giác", "Hàm số lượng giác", "Phương trình lượng giác cơ bản"],
+    "Dãy số - Cấp số cộng - Cấp số nhân": ["Dãy số", "Cấp số cộng", "Cấp số nhân"],
+    "Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm": ["Mẫu số liệu ghép nhóm", "Các số đặc trưng đo xu thế trung tâm"],
+    "Quan hệ song song trong không gian": ["Đường thẳng và mặt phẳng trong không gian", "Hai đường thẳng song song", "Hai mặt phẳng song song", "Phép chiếu song song"],
+    "Giới hạn - Hàm số liên tục": ["Giới hạn của dãy số", "Giới hạn của hàm số", "Hàm số liên tục"],
+    "Hàm số mũ - Hàm số Logarit": ["Lũy thừa và số mũ thực", "Logarit", "Hàm số mũ và hàm số logarit", "Phương trình, bất phương trình mũ và logarit"],
+    "Quan hệ vuông góc trong không gian": ["Hai đường thẳng vuông góc", "Đường thẳng vuông góc với mặt phẳng", "Phép chiếu vuông góc, góc giữa đường thẳng và mặt phẳng", "Hai mặt phẳng vuông góc", "Khoảng cách", "Thể tích"],
+    "Các quy tắc tính xác suất": ["Biến cố hợp, biến cố giao, biến cố độc lập", "Công thức cộng xác suất", "Công thức nhân xác suất cho hai biến cố độc lập"],
+    "Đạo hàm": ["Định nghĩa và ý nghĩa của đạo hàm", "Các quy tắc tính đạo hàm", "Đạo hàm cấp hai"]
+  },
+  "12": {
+    "Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số": ["Tính đơn điệu và cực trị của hàm số", "Giá trị lớn nhất và giá trị và giá trị nhỏ nhất của hàm số", "Đường tiệm cận của đồ thị hàm số", "Đường tiệm cận của đồ thị hàm số", "Khảo sát sự biến thiên và vẽ đồ thị của hàm số", "Ứng dụng đạo hàm để giải quyết một số vấn đề liên quan đến thực tiễn"],
+    "Vector và hệ trục tọa độ trong không gian": ["Vector trong không gian", "Hệ trục tọa độ trong không gian", "Biểu thức tọa độ của các phép toán vector"],
+    "Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm": ["Khoảng biến thiên và khoảng tứ phân vị", "Phương sai và độ lệch chuẩn"],
+    "Nguyên hàm - Tích phân": ["Nguyên hàm", "Tích phân", "Ứng dụng hình học của tích phân"],
+    "Phương pháp tọa độ trong không gian": ["Phương trình mặt phẳng", "Phương trình đường thẳng trong không gian", "Công thức tính góc trong không gian", "Phương trình mặt cầu"],
+    "Xác suất có điều kiện": ["Xác suất có điều kiện", "Công thức xác suất toàn phần và công thức Bayes"]
+  }
+}

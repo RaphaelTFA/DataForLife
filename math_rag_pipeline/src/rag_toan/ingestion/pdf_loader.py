@@ -1,3 +1,4 @@
+#using dots.ocr
 import pdfplumber
 from pathlib import Path
 from math_rag_pipeline.src.rag_toan.utils.io import write_text_file

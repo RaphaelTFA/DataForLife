@@ -8,3 +8,6 @@ numpy
 python-dotenv
 fastapi
 uvicorn
+tf-keras
+hf_xet
+chroma-migrate

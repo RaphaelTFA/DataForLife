@@ -1,3 +1,4 @@
+
 from chromadb.config import Settings
 import chromadb
 from math_rag_pipeline.src.rag_toan.config import CHROMA_PERSIST_DIR
@@ -6,7 +7,6 @@ from pathlib import Path
 class ChromaIndex:
     def __init__(self, collection_name: str = "rag_mathematics", persist_dir: str = CHROMA_PERSIST_DIR):
         Path(persist_dir).mkdir(parents=True, exist_ok=True)
-        # use duckdb+parquet backend for persistence
         self.client = chromadb.Client(Settings(chroma_db_impl="duckdb+parquet", persist_directory=persist_dir))
         self.col = self.client.get_or_create_collection(name=collection_name)
 

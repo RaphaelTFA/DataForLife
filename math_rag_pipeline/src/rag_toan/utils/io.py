@@ -25,3 +25,6 @@ def read_text(path: str) -> str:
 
 def write_text(path: str, content: str):
     write_text_file(path, content)
+
+def safe_mkdir(dir_path: str):
+    Path(dir_path).mkdir(parents=True, exist_ok=True)
